@@ -1,4 +1,5 @@
 # 😎 Choi Young Seoc 😎
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcys020628&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
 <h3 align="center">🛠 Language 🛠</h3>
@@ -60,6 +61,11 @@
 ## 🏆 깃허브 통계  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cys020628&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cys020628&layout=compact&theme=radical)
+
+---
+
+### 🏆 Baekjoon Online Judge
+[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyc990116)](https://solved.ac/cyc990116)
 
 ---
 
