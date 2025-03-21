@@ -6,6 +6,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
 <!--내용 부분-->
@@ -44,7 +45,7 @@
 <br>
 
 ## 🛠 기술 스택  
-- **언어**: Kotlin  
+- **언어**: Kotlin, Swift  
 - **아키텍처**: MVVM, Clean Architecture  
 - **주요 라이브러리**: Jetpack Components (ViewModel, LiveData, Room), Hilt, Coroutine, Retrofit  
 - **UI**: ViewBinding, Jetpack Compose, Material Design  
@@ -54,7 +55,8 @@
 ## 📌 현재 작업 중  
 🔹 **Jetpack Compose 활용 프로젝트 개발**  
 🔹 **MVVM 및 Clean Architecture를 적용한 앱 개발**  
-🔹 **Firebase 및 REST API 연동 프로젝트 진행**  
+🔹 **Firebase 및 REST API 연동 사이드 프로젝트 진행**  
+🔹 **MVVM을 적용한 Swift IOS 앱 개발*  
 
 ---
 
@@ -71,7 +73,7 @@
 ---
 
 ## 📬 연락처  
-📧 **이메일**: cys020628@naver.com
+📧 **이메일**: cys020628@naver.com  
 📌 **블로그/사이트**: [https://velog.io/@cys020628]  
 📌 **깃허브**: [GitHub Profile](https://github.com/cys020628)  
 
